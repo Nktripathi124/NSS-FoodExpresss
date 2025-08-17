@@ -18,10 +18,13 @@ Restaurant Partner: Manages menu, accepts orders, and tracks earnings.
 Delivery Partner: Views and accepts delivery tasks.
 
 Secure Authentication: Implements JSON Web Tokens (JWT) for secure, role-based user login and persistent session management.
+![WhatsApp Image 2025-08-11 at 13 08 44 (1)](https://github.com/user-attachments/assets/48c0ccea-d175-40e6-8d59-ff60918f7b18)
 
 Full CRUD Functionality: Complete Create, Read, Update, and Delete operations for managing users, restaurants, menu items, orders, and delivery records.
+![WhatsApp Image 2025-08-11 at 19 06 03](https://github.com/user-attachments/assets/84c8360c-c81a-4a5e-9b5f-51156667d02f)
 
 Responsive User Interface: A clean, intuitive, and mobile-friendly UI built with React ensures a great user experience across all devices.
+![WhatsApp Image 2025-08-11 at 19 06 22](https://github.com/user-attachments/assets/694300b4-e3fb-4cef-9986-2afcef925747)
 
 Integrated Helpdesk: A dedicated module for users to raise queries and for admins to resolve them, ensuring excellent customer support.
 
@@ -113,3 +116,4 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
+
